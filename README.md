@@ -1,4 +1,4 @@
-Transport Policy during the Energy Crisis - Database
+**Transport Policy during the Energy Crisis - Database**
 
 Elina M. Dilger
 
@@ -10,7 +10,7 @@ January 2024
 https://github.com/elinadilger/transport_policy_energ_crisis_database/blob/b183fa7b15b361647c23740213a40051901ba985/transport_policy_energycrisis.csv
 
 
-1	Documentation
+**1	Documentation**
 The database includes data on the policies implemented by the 27 EU member states, as well as Norway, Switzerland, and the United Kingdom, in response to the energy crisis in the transport sector. 
 The energy crisis is defined as starting from the beginning of the last quarter of 2021, and policies implemented or announced up until the beginning of April 2023 were included in the data. 
 This database is the first of its kind, focusing specifically on the transport sector and compiling the implemented policies from these thirty countries. 
@@ -29,7 +29,7 @@ Information only obtained through communication with a ministry or embassy was a
 The database does not claim to be exhaustive, as not all implemented policies may have been captured due to several reasons such as variations in each country's definition of what constitutes a policy or a transport policy and language barriers. 
 
 
-2	Explanation of Columns
+**2	Explanation of Columns**
 Country: 
 Lists the country which implemented the policy
 
