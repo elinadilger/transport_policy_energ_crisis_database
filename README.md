@@ -16,8 +16,8 @@ https://github.com/elinadilger/transport_policy_energ_crisis_database/blob/b183f
 The database includes data on the policies implemented by the 27 EU member states, as well as Norway, Switzerland, and the United Kingdom, in response to the energy crisis in the transport sector. 
 The energy crisis is defined as starting from the beginning of the last quarter of 2021, and policies implemented or announced up until the beginning of April 2023 were included in the data. 
 This database is the first of its kind, focusing specifically on the transport sector and compiling the implemented policies from these thirty countries. 
-To obtain the data, an overview of national fiscal policy responses to the energy crisis by the think tank Bruegel from March 2023 was utilised as the foundation for further research (Sgaravatti et al., 2023). T
-he Bruegel analysis mentioned policies targeting the transport sector and, at times, also offered sources for more information on the policies. However, the analysis did not list all transport policies extensively. 
+To obtain the data, an overview of national fiscal policy responses to the energy crisis by the think tank Bruegel from March 2023 was utilised as the foundation for further research (Sgaravatti et al., 2023). 
+The Bruegel analysis mentioned policies targeting the transport sector and, at times, also offered sources for more information on the policies. However, the analysis did not list all transport policies extensively. 
 Thus, the sources and policies provided were used for open-source research using Google conducted in the language of the respective country. 
 Additionally, the embassies of the countries in Germany, the transport ministries of the countries and the German embassies in the respective countries were asked to provide information about the policies implemented. 
 Most embassies and ministries responded, and emails and phone calls with them were used as the starting point for further open-source research. 
